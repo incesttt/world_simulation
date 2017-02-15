@@ -1,0 +1,7 @@
+public class Czlowiek  {
+    private String imie;
+    public Czlowiek(String imie)
+    {this.imie = imie;}
+    public String getImie(){return this.imie;}
+}
+
